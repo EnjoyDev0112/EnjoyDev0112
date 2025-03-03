@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnjoyDev0112
-- 👀 I have rich experience in mobile development.
-- 🌱 I’m currently learning AI and Blockchain
+- 👀 I have rich experience in mobile development and AI integration.
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on ...
 
 <!---
