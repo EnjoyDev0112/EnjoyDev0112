@@ -15,8 +15,6 @@
   <a href="https://github.com/H-Builder"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&pause=1000&color=F7BCA0&center=true&vCenter=true&width=1000&height=100&lines=I+am+Senior+Video+Software+Engineer;I+will+give+you+wonderful+project;I+am+available+now;Thank+you" alt="Typing SVG" /></a>
 </p>
 
-- 👯 I’m looking to collaborate on **full stack projects or internships.**
-
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
